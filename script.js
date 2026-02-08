@@ -4,15 +4,15 @@ const note = document.getElementById("note");
 const actions = document.querySelector(".actions");
 
 const sweetMessages = [
-  "Yay! Ghurte Jabooo!!🤍",
-  "Ghure Pic Tulbooo!!!🤍",
-  "Ahaaa koto bhalo meow shob kotha mane 🤍",
+  "Yay! I can't wait for our date Cutie Patootie💖",
+  "More liverpool jersey snaps incoming🤪!",
+  "Ahaaa koto bhalo chele shob kotha mane 💕",
 ];
 
 const playfulNoMessages = [
   "MUAHAHA!",
   "Parba na Bhai NO te click korte!",
-  "Ayyy!! Pocha meow",
+  "Ayyy!! Pocha Chele",
 ];
 
 const noImg = [ "noimg0", "noimg1", "noimg2", "noimg3" ];
